@@ -1,0 +1,158 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "alt+c",
+        "command": "-toggleSearchEditorCaseSensitive",
+        "when": "inSearchEditor && searchInputBoxFocus"
+    },
+    {
+        "key": "alt+c",
+        "command": "-workbench.action.terminal.toggleFindCaseSensitive",
+        "when": "terminalFindFocused && terminalProcessSupported || terminalFocus && terminalProcessSupported"
+    },
+    {
+        "key": "alt+c",
+        "command": "-markdown.extension.checkTaskList",
+        "when": "editorTextFocus && editorLangId == 'markdown'"
+    },
+    {
+        "key": "alt+c",
+        "command": "-toggleFindCaseSensitive",
+        "when": "editorFocus"
+    },
+    {
+        "key": "alt+c",
+        "command": "-toggleSearchCaseSensitive",
+        "when": "searchViewletFocus"
+    },
+    {
+        "key": "alt+c",
+        "command": "editor.action.clipboardCopyAction"
+    },
+    {
+        "key": "alt+x",
+        "command": "editor.action.clipboardCutAction"
+    },
+    {
+        "key": "alt+v",
+        "command": "editor.action.clipboardPasteAction"
+    },
+    {
+        "key": "alt+f",
+        "command": "actions.find",
+        "when": "editorFocus || editorIsOpen"
+    },
+    {
+        "key": "alt+s",
+        "command": "leetcode.showSolution"
+    },
+    {
+        "key": "alt+r",
+        "command": "leetcode.submitSolution"
+    },
+    {
+        "key": "alt+t",
+        "command": "leetcode.testSolution"
+    },
+    {
+        "key": "alt+d alt+d",
+        "command": "oicq.friend.search"
+    },
+    {
+        "key": "alt+z alt+z",
+        "command": "oicq.group.search"
+    },
+    {
+        "key": "alt+a alt+a",
+        "command": "chat-pinned.focus"
+    },
+    {
+        "key": "alt+x alt+x",
+        "command": "chat-groups.focus"
+    },
+    {
+        "key": "alt+q alt+q",
+        "command": "workbench.view.extension.qq-explorer"
+    },
+    {
+        "key": "alt+s alt+s",
+        "command": "chat-friends.focus"
+    },
+    {
+        "key": "alt+w alt+w",
+        "command": "oicq.statusBar.click"
+    },
+    {
+        "key": "shift+cmd+f",
+        "command": "extension.beautifySql",
+        "when": "editorTextFocus && !editorReadonly && editorLangId =~ /sql/"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "-extension.beautifySql",
+        "when": "editorTextFocus && !editorReadonly && editorLangId =~ /sql/"
+    },
+    {
+        "key": "shift+cmd+f",
+        "command": "notebook.formatCell",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && inCompositeEditor && notebookEditable && !editorReadonly && activeEditor == 'workbench.editor.notebook'"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "-notebook.formatCell",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && inCompositeEditor && notebookEditable && !editorReadonly && activeEditor == 'workbench.editor.notebook'"
+    },
+    {
+        "key": "shift+cmd+f",
+        "command": "editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "-editor.action.formatDocument",
+        "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
+    },
+    {
+        "key": "shift+cmd+f",
+        "command": "editor.action.formatDocument.none",
+        "when": "editorTextFocus && !editorHasDocumentFormattingProvider && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "-editor.action.formatDocument.none",
+        "when": "editorTextFocus && !editorHasDocumentFormattingProvider && !editorReadonly"
+    },
+    {
+        "key": "shift+cmd+f",
+        "command": "notebook.format",
+        "when": "notebookEditable && !editorTextFocus && activeEditor == 'workbench.editor.notebook'"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "-notebook.format",
+        "when": "notebookEditable && !editorTextFocus && activeEditor == 'workbench.editor.notebook'"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "workbench.action.findInFiles"
+    },
+    {
+        "key": "shift+cmd+f",
+        "command": "-workbench.action.findInFiles"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "vscode-neovim.send",
+        "when": "editorTextFocus && neovim.mode == 'visual'"
+    },
+    {
+        "key": "shift+alt+f",
+        "command": "workbench.view.search",
+        "when": "workbench.view.search.active && neverMatch =~ /doesNotMatch/"
+    },
+    {
+        "key": "shift+cmd+f",
+        "command": "-workbench.view.search",
+        "when": "workbench.view.search.active && neverMatch =~ /doesNotMatch/"
+    }
+]
