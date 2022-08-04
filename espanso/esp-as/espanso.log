@@ -1,0 +1,320 @@
+16:42:13 [daemon(788)] [INFO] reading configs from: "/Users/zack/Library/Preferences/espanso"
+16:42:13 [daemon(788)] [INFO] reading packages from: "/Users/zack/Library/Preferences/espanso/match/packages"
+16:42:13 [daemon(788)] [INFO] using runtime dir: "/Users/zack/Library/Application Support/espanso"
+16:42:13 [daemon(788)] [INFO] watching for changes in path: "/Users/zack/Library/Preferences/espanso"
+16:42:13 [daemon(788)] [INFO] espanso version: 2.1.5-beta
+16:42:13 [daemon(788)] [INFO] spawning the worker process...
+16:42:13 [daemon(788)] [INFO] binded to IPC unix socket: /Users/zack/Library/Application Support/espanso/espansodaemonv2.sock
+16:42:13 [worker(790)] [INFO] reading configs from: "/Users/zack/Library/Preferences/espanso"
+16:42:13 [worker(790)] [INFO] reading packages from: "/Users/zack/Library/Preferences/espanso/match/packages"
+16:42:13 [worker(790)] [INFO] using runtime dir: "/Users/zack/Library/Application Support/espanso"
+16:42:13 [worker(790)] [INFO] binded to IPC unix socket: /Users/zack/Library/Application Support/espanso/espansoworkerv2.sock
+16:42:13 [worker(790)] [INFO] using CocoaAppInfoProvider
+16:42:13 [worker(790)] [INFO] monitoring the status of secure input
+16:42:13 [worker(790)] [INFO] monitoring the status of the daemon process
+16:42:13 [worker(790)] [INFO] using CocoaSource
+16:42:13 [worker(790)] [INFO] using MacInjector
+16:42:13 [worker(790)] [INFO] using CocoaClipboard
+02:51:47 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+02:51:51 [worker(790)] [INFO] secure input has been disabled
+02:52:01 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'WeChat', but there are cases in which the detection is unreliable. Full path: /Applications/WeChat.app/Contents/MacOS/WeChat
+02:52:05 [worker(790)] [INFO] secure input has been disabled
+02:54:19 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+02:54:25 [worker(790)] [INFO] secure input has been disabled
+02:55:47 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+02:56:05 [worker(790)] [INFO] secure input has been disabled
+02:57:18 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'System Preferences', but there are cases in which the detection is unreliable. Full path: /System/Applications/System Preferences.app/Contents/MacOS/System Preferences
+02:57:33 [worker(790)] [INFO] secure input has been disabled
+03:08:12 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:08:13 [worker(790)] [INFO] secure input has been disabled
+03:08:19 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:08:32 [worker(790)] [INFO] secure input has been disabled
+03:09:30 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:09:36 [worker(790)] [INFO] secure input has been disabled
+03:16:08 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+03:17:26 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:18:11 [worker(790)] [INFO] secure input has been disabled
+03:19:45 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:19:46 [worker(790)] [INFO] secure input has been disabled
+03:23:54 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:24:03 [worker(790)] [INFO] secure input has been disabled
+03:24:09 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:24:17 [worker(790)] [INFO] secure input has been disabled
+03:24:23 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:24:36 [worker(790)] [INFO] secure input has been disabled
+03:24:42 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+03:24:53 [worker(790)] [INFO] secure input has been disabled
+01:41:16 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+01:41:18 [worker(790)] [INFO] secure input has been disabled
+03:59:31 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+03:59:35 [worker(790)] [INFO] secure input has been disabled
+04:11:58 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+04:12:11 [worker(790)] [INFO] secure input has been disabled
+04:14:16 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+04:14:19 [worker(790)] [INFO] secure input has been disabled
+05:35:04 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+15:26:04 [worker(790)] [INFO] secure input has been disabled
+15:28:59 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Google Chrome', but there are cases in which the detection is unreliable. Full path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+15:29:03 [worker(790)] [INFO] secure input has been disabled
+16:10:05 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+20:38:24 [worker(790)] [INFO] secure input has been disabled
+20:39:23 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+13:29:28 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+13:29:32 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55), (Alt, 58)], sending compensating events...
+13:29:32 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+13:29:32 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Control, 59), (Alt, 58)], sending compensating events...
+13:29:32 [worker(790)] [INFO] secure input has been disabled
+13:29:33 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Alt, 58)], sending compensating events...
+13:29:33 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+13:29:33 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+13:29:33 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Control, 59), (Alt, 58)], sending compensating events...
+13:29:35 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55), (Alt, 58)], sending compensating events...
+13:29:35 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55), (Control, 59), (Alt, 58)], sending compensating events...
+13:29:38 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+13:29:41 [worker(790)] [INFO] secure input has been disabled
+14:08:42 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+14:08:43 [worker(790)] [INFO] secure input has been disabled
+14:51:54 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+14:58:33 [worker(790)] [INFO] secure input has been disabled
+15:41:29 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+22:04:55 [worker(790)] [INFO] secure input has been disabled
+23:19:51 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+23:51:12 [worker(790)] [INFO] secure input has been disabled
+00:11:48 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+00:19:17 [worker(790)] [INFO] secure input has been disabled
+00:30:42 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:37:36 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:38:27 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:40:34 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:41:13 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:47:43 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:34:52 [worker(790)] [INFO] toggled enabled state, is_enabled = false
+02:09:22 [worker(790)] [INFO] toggled enabled state, is_enabled = true
+04:14:13 [worker(790)] [INFO] toggled enabled state, is_enabled = false
+13:44:56 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+19:47:31 [worker(790)] [INFO] secure input has been disabled
+19:47:58 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+19:48:02 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'UserNotificationCenter', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+19:48:05 [worker(790)] [INFO] secure input has been disabled
+20:00:38 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+03:14:09 [worker(790)] [INFO] toggled enabled state, is_enabled = true
+00:22:44 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+00:22:46 [worker(790)] [INFO] secure input has been disabled
+00:30:15 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:30:18 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:30:40 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:31:27 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:32:01 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:01:33 [worker(790)] [INFO] toggled enabled state, is_enabled = false
+22:23:37 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+22:23:39 [worker(790)] [INFO] secure input has been disabled
+22:24:07 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+14:44:30 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+14:44:41 [worker(790)] [INFO] secure input has been disabled
+15:02:42 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+17:15:35 [worker(790)] [INFO] secure input has been disabled
+22:57:53 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+22:57:55 [worker(790)] [INFO] secure input has been disabled
+23:55:08 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:44:12 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+02:36:33 [worker(790)] [INFO] secure input has been disabled
+03:20:28 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:24:53 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+15:24:55 [worker(790)] [INFO] secure input has been disabled
+15:40:39 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+15:40:59 [worker(790)] [INFO] secure input has been disabled
+15:41:02 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+15:41:11 [worker(790)] [INFO] secure input has been disabled
+15:41:23 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+15:41:33 [worker(790)] [INFO] secure input has been disabled
+16:50:50 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+16:51:02 [worker(790)] [INFO] secure input has been disabled
+16:53:06 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+16:53:15 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+16:53:17 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+16:53:21 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+16:53:44 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+16:53:49 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+16:54:23 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+16:54:25 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+17:18:28 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+17:18:32 [worker(790)] [INFO] secure input has been disabled
+17:23:04 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+17:23:08 [worker(790)] [INFO] secure input has been disabled
+17:51:24 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Notes', but there are cases in which the detection is unreliable. Full path: /System/Applications/Notes.app/Contents/MacOS/Notes
+17:51:26 [worker(790)] [INFO] secure input has been disabled
+22:16:16 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+22:16:17 [worker(790)] [INFO] secure input has been disabled
+22:29:09 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+22:29:16 [worker(790)] [INFO] secure input has been disabled
+22:29:50 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+22:29:58 [worker(790)] [INFO] secure input has been disabled
+22:32:04 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+22:32:10 [worker(790)] [INFO] secure input has been disabled
+22:32:16 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+22:32:29 [worker(790)] [INFO] secure input has been disabled
+22:33:00 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+22:33:06 [worker(790)] [INFO] secure input has been disabled
+22:41:19 [worker(790)] [INFO] toggled enabled state, is_enabled = true
+22:56:18 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+22:56:28 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Safari', but there are cases in which the detection is unreliable. Full path: /Applications/Safari.app/Contents/MacOS/Safari
+22:56:34 [worker(790)] [INFO] secure input has been disabled
+23:56:00 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+23:56:07 [worker(790)] [INFO] secure input has been disabled
+00:39:06 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+01:13:18 [worker(790)] [INFO] secure input has been disabled
+01:13:27 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:13:27 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:13:34 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:13:35 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:13:43 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:13:44 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:13:45 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:13:46 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:15:29 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:15:32 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'UserNotificationCenter', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+01:15:36 [worker(790)] [INFO] secure input has been disabled
+01:17:37 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:22:30 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:24:13 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:28:02 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'System Preferences', but there are cases in which the detection is unreliable. Full path: /System/Applications/System Preferences.app/Contents/MacOS/System Preferences
+01:28:06 [worker(790)] [INFO] secure input has been disabled
+01:28:34 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:28:37 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'UserNotificationCenter', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+01:28:49 [worker(790)] [INFO] secure input has been disabled
+01:28:58 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:29:14 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:29:53 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:30:13 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:58:02 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+02:15:05 [worker(790)] [INFO] secure input has been disabled
+00:41:29 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+00:41:31 [worker(790)] [INFO] secure input has been disabled
+00:42:11 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+00:42:14 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'UserNotificationCenter', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+00:42:16 [worker(790)] [INFO] secure input has been disabled
+00:47:17 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:35:55 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+00:55:14 [worker(790)] [INFO] secure input has been disabled
+12:57:19 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+12:57:38 [worker(790)] [INFO] secure input has been disabled
+12:59:40 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+12:59:44 [worker(790)] [INFO] secure input has been disabled
+13:06:47 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+13:06:56 [worker(790)] [INFO] secure input has been disabled
+13:10:46 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+13:10:47 [worker(790)] [INFO] secure input has been disabled
+13:57:18 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+13:57:23 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+14:04:48 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+14:18:31 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+14:24:01 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+14:32:15 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+14:44:44 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+14:50:24 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+14:57:50 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:01:53 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Alt, 58)], sending compensating events...
+15:02:07 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:02:22 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:03:08 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:04:24 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:24:06 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:24:52 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:26:46 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+15:53:41 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'System Preferences', but there are cases in which the detection is unreliable. Full path: /System/Applications/System Preferences.app/Contents/MacOS/System Preferences
+15:53:42 [worker(790)] [INFO] secure input has been disabled
+16:08:32 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+16:08:36 [worker(790)] [INFO] secure input has been disabled
+21:19:32 [worker(790)] [INFO] toggled enabled state, is_enabled = false
+21:55:44 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'coreautha', but there are cases in which the detection is unreliable. Full path: /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+21:55:47 [worker(790)] [INFO] secure input has been disabled
+15:41:01 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+15:41:03 [worker(790)] [INFO] secure input has been disabled
+16:33:40 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+18:30:26 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+18:30:28 [worker(790)] [INFO] secure input has been disabled
+19:00:20 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+19:29:36 [worker(790)] [INFO] secure input has been disabled
+19:39:12 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'SecurityAgent', but there are cases in which the detection is unreliable. Full path: /System/Library/Frameworks/Security.framework/Versions/A/MachServices/SecurityAgent.bundle/Contents/MacOS/SecurityAgent
+19:39:14 [worker(790)] [INFO] secure input has been disabled
+02:09:16 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+02:09:19 [worker(790)] [INFO] secure input has been disabled
+13:36:37 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+13:37:16 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+16:04:57 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+16:05:09 [worker(790)] [INFO] secure input has been disabled
+17:02:39 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+17:02:40 [worker(790)] [INFO] secure input has been disabled
+02:36:18 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+02:36:21 [worker(790)] [INFO] secure input has been disabled
+02:57:04 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+04:51:45 [worker(790)] [INFO] toggled enabled state, is_enabled = true
+11:22:56 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+11:23:01 [worker(790)] [INFO] secure input has been disabled
+12:11:53 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+15:03:24 [worker(790)] [INFO] secure input has been disabled
+03:13:14 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+03:13:15 [worker(790)] [INFO] secure input has been disabled
+03:27:03 [worker(790)] [INFO] toggled enabled state, is_enabled = false
+04:40:57 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+16:43:58 [worker(790)] [INFO] secure input has been disabled
+17:16:27 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+00:41:18 [worker(790)] [INFO] secure input has been disabled
+03:35:41 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+03:35:50 [worker(790)] [INFO] secure input has been disabled
+03:36:02 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+03:36:06 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'UserNotificationCenter', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/UserNotificationCenter.app/Contents/MacOS/UserNotificationCenter
+03:36:08 [worker(790)] [INFO] secure input has been disabled
+03:51:36 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+23:49:39 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+23:49:40 [worker(790)] [INFO] secure input has been disabled
+23:50:41 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'System Preferences', but there are cases in which the detection is unreliable. Full path: /System/Applications/System Preferences.app/Contents/MacOS/System Preferences
+23:50:45 [worker(790)] [INFO] secure input has been disabled
+23:51:31 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Finder', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+23:51:32 [worker(790)] [INFO] secure input has been disabled
+23:51:47 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+23:51:49 [worker(790)] [INFO] secure input has been disabled
+23:51:52 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+23:51:55 [worker(790)] [INFO] secure input has been disabled
+23:52:07 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+23:52:19 [worker(790)] [INFO] secure input has been disabled
+23:52:35 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+23:53:08 [worker(790)] [INFO] secure input has been disabled
+23:53:54 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Firefox', but there are cases in which the detection is unreliable. Full path: /Applications/Firefox.app/Contents/MacOS/firefox
+23:54:08 [worker(790)] [INFO] secure input has been disabled
+00:49:44 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+02:21:13 [worker(790)] [INFO] secure input has been disabled
+02:28:25 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Google Chrome', but there are cases in which the detection is unreliable. Full path: /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+02:28:28 [worker(790)] [INFO] secure input has been disabled
+02:35:47 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+02:50:49 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+03:03:33 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+03:17:07 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'System Preferences', but there are cases in which the detection is unreliable. Full path: /System/Applications/System Preferences.app/Contents/MacOS/System Preferences
+03:17:09 [worker(790)] [INFO] secure input has been disabled
+13:52:21 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+13:52:23 [worker(790)] [INFO] secure input has been disabled
+14:58:52 [worker(790)] [INFO] toggled enabled state, is_enabled = true
+14:58:55 [worker(790)] [INFO] toggled enabled state, is_enabled = false
+00:00:14 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+00:00:16 [worker(790)] [INFO] secure input has been disabled
+11:27:29 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+11:28:11 [worker(790)] [INFO] secure input has been disabled
+11:38:05 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+11:48:57 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+18:21:43 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+18:21:44 [worker(790)] [INFO] secure input has been disabled
+19:18:31 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+20:39:40 [worker(790)] [INFO] secure input has been disabled
+23:38:38 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+23:39:01 [worker(790)] [INFO] secure input has been disabled
+08:32:42 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+08:32:45 [worker(790)] [INFO] secure input has been disabled
+01:14:50 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'loginwindow', but there are cases in which the detection is unreliable. Full path: /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow
+01:14:51 [worker(790)] [INFO] secure input has been disabled
+01:18:52 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:18:53 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:19:15 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:20:25 [worker(790)] [INFO] secure input has been acquired, preventing espanso from working correctly. Our guess is that this is caused by 'Raycast', but there are cases in which the detection is unreliable. Full path: /Applications/Raycast.app/Contents/MacOS/Raycast
+01:20:39 [worker(790)] [INFO] secure input has been disabled
+01:28:19 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
+01:28:54 [worker(790)] [WARN] detected inconsistent modifier state for keys [(Meta, 55)], sending compensating events...
